@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
-import { i18n } from './i18n/config';
+import { i18n, type Locale } from './i18n/config';
 
 function getLocale(request: NextRequest): string {
   // Check if locale is in pathname
@@ -17,7 +17,7 @@ function getLocale(request: NextRequest): string {
     const preferredLocale = acceptLanguage
       .split(',')
       .map((lang) => lang.split(';')[0].trim().split('-')[0])
-      .find((lang) => i18n.locales.includes(lang as any));
+      .find((lang): lang is Locale => i18n.locales.includes(lang as Locale));
 
     if (preferredLocale) return preferredLocale;
   }
