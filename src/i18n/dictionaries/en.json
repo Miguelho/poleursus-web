@@ -15,13 +15,13 @@
   },
   "home": {
     "meta": {
-      "title": "Poleursus — Calm and useful software",
-      "description": "We create digital tools designed to help without overwhelming. Calm and useful software."
+      "title": "Poleursus - Intentional software",
+      "description": "We create digital tools built with purpose. Every feature exists to help, nothing more."
     },
     "hero": {
       "title": "Poleursus",
-      "subtitle": "Calm and useful software",
-      "description": "We create digital tools designed to help without overwhelming."
+      "subtitle": "Intentional software",
+      "description": "We create digital tools built with purpose. Every feature exists to help, nothing more."
     },
     "products": {
       "title": "Products",
@@ -34,7 +34,7 @@
   },
   "pulse": {
     "meta": {
-      "title": "Pulse — Progress & focus",
+      "title": "Pulse - Progress & focus",
       "description": "A simple way to train your focus and see your progress over time. Timed sessions, music, and clear tracking."
     },
     "hero": {
@@ -111,7 +111,7 @@
   },
   "privacy": {
     "meta": {
-      "title": "Privacy Policy — Poleursus",
+      "title": "Privacy Policy - Poleursus",
       "description": "Privacy policy for Poleursus and its products."
     },
     "title": "Privacy Policy",
@@ -120,7 +120,7 @@
   },
   "terms": {
     "meta": {
-      "title": "Terms of Service — Poleursus",
+      "title": "Terms of Service - Poleursus",
       "description": "Terms of service for Poleursus and its products."
     },
     "title": "Terms of Service",

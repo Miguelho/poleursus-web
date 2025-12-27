@@ -15,13 +15,13 @@
   },
   "home": {
     "meta": {
-      "title": "Poleursus — Software calmado y útil",
-      "description": "Creamos herramientas digitales pensadas para ayudar sin agobiar. Software calmado y útil."
+      "title": "Poleursus - Software intencional",
+      "description": "Creamos herramientas digitales con propósito. Cada función existe para ayudar, nada más."
     },
     "hero": {
       "title": "Poleursus",
-      "subtitle": "Software calmado y útil",
-      "description": "Creamos herramientas digitales pensadas para ayudar sin agobiar."
+      "subtitle": "Software intencional",
+      "description": "Creamos herramientas digitales con propósito. Cada función existe para ayudar, nada más."
     },
     "products": {
       "title": "Productos",
@@ -34,7 +34,7 @@
   },
   "pulse": {
     "meta": {
-      "title": "Pulse — Progreso y concentración",
+      "title": "Pulse - Progreso y concentración",
       "description": "Una forma simple de entrenar tu concentración y ver tu progreso con el tiempo. Sesiones temporizadas, música y seguimiento claro."
     },
     "hero": {
@@ -111,7 +111,7 @@
   },
   "privacy": {
     "meta": {
-      "title": "Política de Privacidad — Poleursus",
+      "title": "Política de Privacidad - Poleursus",
       "description": "Política de privacidad de Poleursus y sus productos."
     },
     "title": "Política de Privacidad",
@@ -120,7 +120,7 @@
   },
   "terms": {
     "meta": {
-      "title": "Términos de Servicio — Poleursus",
+      "title": "Términos de Servicio - Poleursus",
       "description": "Términos de servicio de Poleursus y sus productos."
     },
     "title": "Términos de Servicio",
