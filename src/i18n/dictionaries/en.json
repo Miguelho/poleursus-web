@@ -1,0 +1,130 @@
+{
+  "common": {
+    "siteName": "Poleursus",
+    "poleursus": "Poleursus",
+    "pulse": "Pulse",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "home": "Home"
+  },
+  "nav": {
+    "pulse": "Pulse",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "home": {
+    "meta": {
+      "title": "Poleursus — Calm and useful software",
+      "description": "We create digital tools designed to help without overwhelming. Calm and useful software."
+    },
+    "hero": {
+      "title": "Poleursus",
+      "subtitle": "Calm and useful software",
+      "description": "We create digital tools designed to help without overwhelming."
+    },
+    "products": {
+      "title": "Products",
+      "pulse": {
+        "name": "Pulse",
+        "description": "Train your focus. See your progress.",
+        "cta": "Learn about Pulse"
+      }
+    }
+  },
+  "pulse": {
+    "meta": {
+      "title": "Pulse — Progress & focus",
+      "description": "A simple way to train your focus and see your progress over time. Timed sessions, music, and clear tracking."
+    },
+    "hero": {
+      "title": "Pulse",
+      "subtitle": "Train your focus. See your progress.",
+      "description": "Timed sessions, music, and clear tracking. For work, study, training, or being present.",
+      "primaryCta": "Download on Google Play",
+      "secondaryCta": "See how it works"
+    },
+    "problem": {
+      "title": "The problem",
+      "content": "Focus isn't lost all at once. It fades when there's no rhythm, continuity, and feedback."
+    },
+    "pillars": {
+      "title": "What it does",
+      "items": [
+        {
+          "title": "Intentional sessions",
+          "description": "Customizable timers, breaks, and cycles. Set your rhythm and maintain it."
+        },
+        {
+          "title": "Sound accompaniment",
+          "description": "Music and ambient sounds that support your attention without distraction."
+        },
+        {
+          "title": "Visible progress",
+          "description": "Clear history of your sessions to see your consistency over time."
+        }
+      ]
+    },
+    "difference": {
+      "title": "The difference",
+      "content": "Pulse doesn't try to squeeze your time. It helps you repeat. And that's where real progress appears."
+    },
+    "audience": {
+      "title": "Who it's for",
+      "forWho": "For those who want to improve their focus calmly and see results over time.",
+      "notFor": "Not for those seeking to do more things in less time at any cost."
+    },
+    "screenshots": {
+      "title": "Screenshots",
+      "alt": "Pulse app screenshot"
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "question": "Do I need Spotify Premium?",
+          "answer": "Pulse can work with music from different sources. Some features may require external services. Check the details on the Google Play listing."
+        },
+        {
+          "question": "Does it work for Pomodoro, studying, and training?",
+          "answer": "Pulse offers customizable timers that you can adapt to different methods. You can use it for work, study, exercise, or any activity requiring focus."
+        },
+        {
+          "question": "What exactly does the progress measure?",
+          "answer": "Pulse records your completed sessions so you can see your consistency. It doesn't promise to measure productivity or external results, only your practice."
+        },
+        {
+          "question": "Does it work offline?",
+          "answer": "It depends on your configuration. Some features may require a connection. For specific details, check the information on Google Play."
+        },
+        {
+          "question": "Is it free?",
+          "answer": "Check the Google Play listing for updated information on price and availability."
+        }
+      ]
+    },
+    "footer": {
+      "description": "Train your focus. See your progress.",
+      "links": "Links",
+      "copyright": "© 2025 Poleursus. All rights reserved."
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Policy — Poleursus",
+      "description": "Privacy policy for Poleursus and its products."
+    },
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: January 2025",
+    "content": "Privacy policy content. This is a placeholder that should be replaced with actual legal content."
+  },
+  "terms": {
+    "meta": {
+      "title": "Terms of Service — Poleursus",
+      "description": "Terms of service for Poleursus and its products."
+    },
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: January 2025",
+    "content": "Terms of service content. This is a placeholder that should be replaced with actual legal content."
+  }
+}

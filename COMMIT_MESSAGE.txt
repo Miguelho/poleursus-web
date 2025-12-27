@@ -1,0 +1,63 @@
+feat: Initial implementation of Poleursus Web landing page
+
+Complete Next.js 14 implementation with TypeScript, TailwindCSS, and manual i18n.
+
+Features:
+- Manual i18n system (ES/EN) with middleware and dictionaries
+- Poleursus home page (simple, minimal)
+- Pulse landing page (7 sections + FAQ)
+- Legal pages (privacy, terms)
+- SEO optimization (metadata, sitemap, hreflang tags)
+- Responsive design (mobile-first)
+- Accessibility compliance (WCAG AA)
+- Server Components architecture
+- 404 pages (localized)
+
+Tech Stack:
+- Next.js 14.2.0 (App Router)
+- TypeScript 5.3.3 (strict mode)
+- TailwindCSS 3.4.1
+- React 18.3.0
+
+Documentation:
+- README.md (project overview)
+- QUICKSTART.md (< 5 min setup)
+- DEPLOYMENT.md (Vercel deployment guide)
+- ASSETS_README.md (assets list + placeholders)
+- PROJECT_SUMMARY.md (complete project documentation)
+
+Structure:
+- 45+ files created
+- ~2,500 lines of TypeScript/TSX
+- 22 React components
+- 9 pages/routes
+- Full i18n support (ES/EN)
+
+Components:
+- UI Base: Container, Section, Button, Card, Accordion
+- Layout: Header, Footer, LanguageSwitcher
+- Home: HomeHero, ProductsSection
+- Pulse: 7 section components (Hero, Problem, Pillars, Difference, Audience, Screenshots, FAQ)
+
+SEO:
+- Localized metadata per page
+- OpenGraph + Twitter Cards
+- Sitemap with hreflang tags
+- robots.txt
+- Canonical URLs
+
+Design Philosophy:
+- Minimalist premium aesthetic
+- Calm and honest copy (no false claims)
+- Neutral palette with subtle blue accent
+- Lots of whitespace
+- Clean typography (system fonts)
+
+Next Steps:
+1. Add placeholder assets (./create-placeholders.sh)
+2. Configure .env.local
+3. Deploy to Vercel
+
+🤖 Generated with Claude Code (https://claude.com/claude-code)
+
+Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>

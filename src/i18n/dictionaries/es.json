@@ -1,0 +1,130 @@
+{
+  "common": {
+    "siteName": "Poleursus",
+    "poleursus": "Poleursus",
+    "pulse": "Pulse",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "contact": "Contacto",
+    "home": "Inicio"
+  },
+  "nav": {
+    "pulse": "Pulse",
+    "privacy": "Privacidad",
+    "terms": "Términos"
+  },
+  "home": {
+    "meta": {
+      "title": "Poleursus — Software calmado y útil",
+      "description": "Creamos herramientas digitales pensadas para ayudar sin agobiar. Software calmado y útil."
+    },
+    "hero": {
+      "title": "Poleursus",
+      "subtitle": "Software calmado y útil",
+      "description": "Creamos herramientas digitales pensadas para ayudar sin agobiar."
+    },
+    "products": {
+      "title": "Productos",
+      "pulse": {
+        "name": "Pulse",
+        "description": "Entrena tu concentración. Observa tu progreso.",
+        "cta": "Conocer Pulse"
+      }
+    }
+  },
+  "pulse": {
+    "meta": {
+      "title": "Pulse — Progreso y concentración",
+      "description": "Una forma simple de entrenar tu concentración y ver tu progreso con el tiempo. Sesiones temporizadas, música y seguimiento claro."
+    },
+    "hero": {
+      "title": "Pulse",
+      "subtitle": "Entrena tu concentración. Observa tu progreso.",
+      "description": "Sesiones temporizadas, música y seguimiento claro. Para trabajar, estudiar, entrenar o estar presente.",
+      "primaryCta": "Descargar en Google Play",
+      "secondaryCta": "Ver cómo funciona"
+    },
+    "problem": {
+      "title": "El problema",
+      "content": "La concentración no se pierde de golpe. Se desgasta cuando no hay ritmo, continuidad y feedback."
+    },
+    "pillars": {
+      "title": "Qué hace",
+      "items": [
+        {
+          "title": "Sesiones con intención",
+          "description": "Temporizadores personalizables, descansos y ciclos. Define tu ritmo y mantenlo."
+        },
+        {
+          "title": "Acompañamiento sonoro",
+          "description": "Música y sonidos ambiente que sostienen tu atención sin distraer."
+        },
+        {
+          "title": "Progreso visible",
+          "description": "Historial claro de tus sesiones para ver tu constancia a lo largo del tiempo."
+        }
+      ]
+    },
+    "difference": {
+      "title": "La diferencia",
+      "content": "Pulse no intenta exprimir tu tiempo. Te ayuda a repetir. Y ahí aparece el progreso real."
+    },
+    "audience": {
+      "title": "Para quién es",
+      "forWho": "Para quien quiere mejorar su enfoque con calma y ver resultados en el tiempo.",
+      "notFor": "No es para quien busca hacer más cosas en menos tiempo a cualquier precio."
+    },
+    "screenshots": {
+      "title": "Capturas",
+      "alt": "Captura de pantalla de Pulse"
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "items": [
+        {
+          "question": "¿Necesito Spotify Premium?",
+          "answer": "Pulse puede funcionar con música de diferentes fuentes. Algunas funciones pueden requerir servicios externos. Consulta los detalles en la ficha de Google Play."
+        },
+        {
+          "question": "¿Sirve para Pomodoro, estudio y entrenamiento?",
+          "answer": "Pulse ofrece temporizadores personalizables que puedes adaptar a diferentes métodos. Puedes usarlo para trabajo, estudio, ejercicio o cualquier actividad que requiera concentración."
+        },
+        {
+          "question": "¿Qué mide exactamente el progreso?",
+          "answer": "Pulse registra tus sesiones completadas para que veas tu constancia. No promete medir productividad ni resultados externos, solo tu práctica."
+        },
+        {
+          "question": "¿Funciona sin conexión?",
+          "answer": "Depende de tu configuración. Algunas funciones pueden requerir conexión. Para detalles específicos, consulta la información en Google Play."
+        },
+        {
+          "question": "¿Es gratis?",
+          "answer": "Consulta la ficha en Google Play para información actualizada sobre precio y disponibilidad."
+        }
+      ]
+    },
+    "footer": {
+      "description": "Entrena tu concentración. Observa tu progreso.",
+      "links": "Enlaces",
+      "copyright": "© 2025 Poleursus. Todos los derechos reservados."
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Política de Privacidad — Poleursus",
+      "description": "Política de privacidad de Poleursus y sus productos."
+    },
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: Enero 2025",
+    "content": "Contenido de la política de privacidad. Este es un placeholder que deberá ser reemplazado con el contenido legal real."
+  },
+  "terms": {
+    "meta": {
+      "title": "Términos de Servicio — Poleursus",
+      "description": "Términos de servicio de Poleursus y sus productos."
+    },
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: Enero 2025",
+    "content": "Contenido de los términos de servicio. Este es un placeholder que deberá ser reemplazado con el contenido legal real."
+  }
+}
